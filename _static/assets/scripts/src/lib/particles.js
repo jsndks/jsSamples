@@ -16,7 +16,7 @@ define(function(require) {
      */
 	var Particles = function($element, options) {
 		// if element doesnt exist in the DOM return early
-		if ($element.length == 0) { return; }
+		if ($element.length === 0) { return; }
 
 		/**
          * A reference to the containing DOM element.
@@ -134,7 +134,7 @@ define(function(require) {
         window.requestAnimFrame = (function() {
             return  window.requestAnimationFrame       ||
             window.webkitRequestAnimationFrame         ||
-            window.mozRequestAnimationFrame
+            window.mozRequestAnimationFrame;
         })();
 
         return this;

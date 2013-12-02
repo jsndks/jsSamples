@@ -15,7 +15,7 @@ define(function(require) {
      */
 	var Chart = function($element) {
 		// if element doesnt exist in the DOM return early
-		if ($element.length == 0) { return; }
+		if ($element.length === 0) { return; }
 
 		/**
          * A reference to the containing DOM element.
@@ -87,7 +87,7 @@ define(function(require) {
     };
 
     /**
-	 handles layout of DOM elements
+	 * handles layout of DOM elements
      *
      * @method layout
      * @returns {Chart}
@@ -210,7 +210,7 @@ define(function(require) {
             var coordX = this.canvasWidth * (curVal / totalDays);
 
             this.ctx.fillStyle = '#ffffff';
-            this.ctx.font = "8px Arial";
+            this.ctx.font = '8px Arial';
             this.ctx.textAlign = 'left';
             this.ctx.fillText('test', coordX, this.canvasHeight);
         }

@@ -16,7 +16,7 @@ define(function(require) {
      */
 	var ModalListController = function($element) {
         // if element doesnt exist in the DOM return early
-        if ($element.length == 0) { return; }
+        if ($element.length === 0) { return; }
 
         /**
          * A reference to the containing DOM element.
@@ -174,25 +174,26 @@ define(function(require) {
     ModalListController.prototype.updateStackBtnState = function() {
         var colCount = this.$modalList.attr(this.colCountAttr);
         var $btns = this.$stackToggle.find('.btn');
+        var $activeBtn = null;
 
         switch (colCount) {
             case '2':
-                var $activeBtn = this.$stackToggle.find('[data-stack-option="2"]');
+                $activeBtn = this.$stackToggle.find('[data-stack-option="2"]');
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case '3':
-                var $activeBtn = this.$stackToggle.find('[data-stack-option="3"]');
+                $activeBtn = this.$stackToggle.find('[data-stack-option="3"]');
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case '4':
-                var $activeBtn = this.$stackToggle.find('[data-stack-option="4"]');
+                $activeBtn = this.$stackToggle.find('[data-stack-option="4"]');
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             default:
-                var $activeBtn = this.$stackToggle.find('[data-stack-option="4"]');
+                $activeBtn = this.$stackToggle.find('[data-stack-option="4"]');
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
         }

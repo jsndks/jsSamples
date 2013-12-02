@@ -16,7 +16,7 @@ define(function(require) {
      */
 	var ParticlesController = function($element) {
 		// if element doesnt exist in the DOM return early
-		if ($element.length == 0) { return; }
+		if ($element.length === 0) { return; }
 
 		/**
          * A reference to the containing DOM element.
@@ -168,24 +168,26 @@ define(function(require) {
      * @public
      */
     ParticlesController.prototype.updateStackBtnState = function(particleType) {
+        var $activeBtn = null;
+
         switch (particleType) {
             case 'mist':
-                var $activeBtn = this.$btns.filter('[data-particle-type="mist"]');
+                $activeBtn = this.$btns.filter('[data-particle-type="mist"]');
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case 'smoke':
-                var $activeBtn = this.$btns.filter('[data-particle-type="smoke"]');
+                $activeBtn = this.$btns.filter('[data-particle-type="smoke"]');
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case 'scatter':
-                var $activeBtn = this.$btns.filter('[data-particle-type="scatter"]');
+                $activeBtn = this.$btns.filter('[data-particle-type="scatter"]');
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             default:
-                var $activeBtn = this.$btns.filter('[data-particle-type="mist"]');
+                $activeBtn = this.$btns.filter('[data-particle-type="mist"]');
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
         }

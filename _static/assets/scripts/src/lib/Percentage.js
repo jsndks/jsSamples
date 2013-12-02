@@ -6,7 +6,7 @@ define(function(require) {
     'use strict';
 
     var $ = require('jquery');
-    require('snap');
+    var Snap = require('snap');
 
     /**
      * Percentage lib class
@@ -16,7 +16,7 @@ define(function(require) {
      */
     var Percentage = function($element, options) {
         // if element doesnt exist in the DOM return early
-        if ($element.length == 0) { return; }
+        if ($element.length === 0) { return; }
 
         /**
          * A reference to the containing DOM element.
@@ -74,12 +74,9 @@ define(function(require) {
      * @private
      */
     Percentage.prototype.layout = function() {
-        this.s = Snap(this.svgEl);
+        this.s = new Snap(this.svgEl);
         this.path = '';
         this.arc = this.s.path(this.path);
-        var callback = this.options.callback ? this.options.callback : null;
-
-        // this.run(this.options.endpoint / 100, callback);
 
         return this;
     };

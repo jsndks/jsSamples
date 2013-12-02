@@ -426,7 +426,7 @@
         },
         {
             "file": "../../assets/scripts/src/controllers/ModalListController.js",
-            "line": 205,
+            "line": 206,
             "description": "Toggle between available stacking options",
             "itemtype": "method",
             "name": "onClickStackToggleItem",
@@ -571,7 +571,7 @@
         },
         {
             "file": "../../assets/scripts/src/controllers/ParticlesController.js",
-            "line": 199,
+            "line": 201,
             "description": "Toggle button click event handler",
             "itemtype": "method",
             "name": "onClickToggle",
@@ -791,46 +791,8 @@
         },
         {
             "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
-            "line": 47,
-            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
-            "itemtype": "method",
-            "name": "createChildren",
-            "return": {
-                "description": "",
-                "type": "SlidePanelController"
-            },
-            "access": "private",
-            "tagname": "",
-            "class": "SlidePanelController"
-        },
-        {
-            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
-            "line": 60,
+            "line": 45,
             "description": "handles layout of DOM elements\n*\n* @method layout\n* @returns {SlidePanelController}\n* @private",
-            "class": "SlidePanelController"
-        },
-        {
-            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
-            "line": 79,
-            "description": "Remove any child objects or references to DOM elements.",
-            "itemtype": "method",
-            "name": "removeChildren",
-            "return": {
-                "description": "",
-                "type": "SlidePanelController"
-            },
-            "access": "public",
-            "tagname": "",
-            "class": "SlidePanelController"
-        },
-        {
-            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
-            "line": 93,
-            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
-            "itemtype": "method",
-            "name": "enable",
-            "access": "public",
-            "tagname": "",
             "class": "SlidePanelController"
         },
         {
@@ -904,7 +866,15 @@
         {
             "file": "../../assets/scripts/src/lib/Chart.js",
             "line": 89,
-            "description": "handles layout of DOM elements\n     *\n     * @method layout\n     * @returns {Chart}\n     * @private",
+            "description": "handles layout of DOM elements",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "Chart"
+            },
+            "access": "private",
+            "tagname": "",
             "class": "Chart"
         },
         {
@@ -1397,7 +1367,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/Percentage.js",
-            "line": 87,
+            "line": 84,
             "description": "Remove any child objects or references to DOM elements.",
             "itemtype": "method",
             "name": "removeChildren",
@@ -1411,7 +1381,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/Percentage.js",
-            "line": 99,
+            "line": 96,
             "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
             "itemtype": "method",
             "name": "enable",
@@ -1421,7 +1391,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/Percentage.js",
-            "line": 111,
+            "line": 108,
             "description": "Disables the component.\nExits early if it is already disabled.",
             "itemtype": "method",
             "name": "disable",
@@ -1431,7 +1401,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/Percentage.js",
-            "line": 125,
+            "line": 122,
             "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
             "itemtype": "method",
             "name": "destroy",
@@ -1445,7 +1415,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/Percentage.js",
-            "line": 145,
+            "line": 142,
             "description": "Runs the snap.js animation",
             "itemtype": "method",
             "name": "run",
@@ -1524,7 +1494,15 @@
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
             "line": 88,
-            "description": "handles layout of DOM elements\n     *\n     * @method layout\n     * @returns {SlidePanel}\n     * @private",
+            "description": "handles layout of DOM elements",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "SlidePanel"
+            },
+            "access": "private",
+            "tagname": "",
             "class": "Chart"
         },
         {
@@ -1543,7 +1521,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 116,
+            "line": 118,
             "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
             "itemtype": "method",
             "name": "enable",
@@ -1553,7 +1531,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 128,
+            "line": 130,
             "description": "Disables the component.\nExits early if it is already disabled.",
             "itemtype": "method",
             "name": "disable",
@@ -1563,7 +1541,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 142,
+            "line": 144,
             "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
             "itemtype": "method",
             "name": "destroy",
@@ -1577,7 +1555,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 162,
+            "line": 164,
             "description": "Collapse the slide panel",
             "itemtype": "method",
             "name": "collapsePanel",
@@ -1587,7 +1565,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 175,
+            "line": 177,
             "description": "Expand the slide panel",
             "itemtype": "method",
             "name": "expandPanel",
@@ -1597,7 +1575,7 @@
         },
         {
             "file": "../../assets/scripts/src/lib/SlidePanel.js",
-            "line": 194,
+            "line": 196,
             "description": "Slide panel click event handler",
             "itemtype": "method",
             "name": "onClickSlidePanelBtn",
@@ -2565,14 +2543,6 @@
             "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:1"
         },
         {
-            "message": "replacing incorrect tag: returns with return",
-            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:47"
-        },
-        {
-            "message": "replacing incorrect tag: returns with return",
-            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:79"
-        },
-        {
             "message": "unknown tag: fileoverview",
             "line": " ../../assets/scripts/src/lib/Chart.js:1"
         },
@@ -2583,6 +2553,10 @@
         {
             "message": "replacing incorrect tag: returns with return",
             "line": " ../../assets/scripts/src/lib/Chart.js:73"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Chart.js:89"
         },
         {
             "message": "replacing incorrect tag: returns with return",
@@ -2638,11 +2612,11 @@
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " ../../assets/scripts/src/lib/Percentage.js:87"
+            "line": " ../../assets/scripts/src/lib/Percentage.js:84"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " ../../assets/scripts/src/lib/Percentage.js:125"
+            "line": " ../../assets/scripts/src/lib/Percentage.js:122"
         },
         {
             "message": "unknown tag: fileoverview",
@@ -2658,11 +2632,15 @@
         },
         {
             "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:88"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
             "line": " ../../assets/scripts/src/lib/SlidePanel.js:104"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " ../../assets/scripts/src/lib/SlidePanel.js:142"
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:144"
         },
         {
             "message": "unknown tag: fileoverview",
@@ -2774,15 +2752,11 @@
         },
         {
             "message": "Missing item type\nhandles layout of DOM elements\n*\n* @method layout\n* @returns {SlidePanelController}\n* @private",
-            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:60"
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:45"
         },
         {
             "message": "Missing item type",
             "line": " ../../assets/scripts/src/lib/Chart.js:1"
-        },
-        {
-            "message": "Missing item type\nhandles layout of DOM elements\n     *\n     * @method layout\n     * @returns {Chart}\n     * @private",
-            "line": " ../../assets/scripts/src/lib/Chart.js:89"
         },
         {
             "message": "Missing item type",
@@ -2803,10 +2777,6 @@
         {
             "message": "Missing item type",
             "line": " ../../assets/scripts/src/lib/SlidePanel.js:1"
-        },
-        {
-            "message": "Missing item type\nhandles layout of DOM elements\n     *\n     * @method layout\n     * @returns {SlidePanel}\n     * @private",
-            "line": " ../../assets/scripts/src/lib/SlidePanel.js:88"
         },
         {
             "message": "Missing item type",

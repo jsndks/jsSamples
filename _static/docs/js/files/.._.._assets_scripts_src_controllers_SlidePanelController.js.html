@@ -120,7 +120,7 @@ define(function(require) {
      */
 	var SlidePanelController = function($element) {
         // if element doesnt exist in the DOM return early
-        if ($element.length == 0) { return; }
+        if ($element.length === 0) { return; }
 
         /**
          * A reference to the containing DOM element.
@@ -143,23 +143,8 @@ define(function(require) {
      * @private
      */
 	SlidePanelController.prototype.init = function() {
-		this.createChildren()
-            .layout()
-			.enable();
+		this.layout();
 	};
-
-    /**
-     * Create any child objects or references to DOM elements.
-     * Should only be run on initialization of the view.
-     *
-     * @method createChildren
-     * @returns {SlidePanelController}
-     * @private
-     */
-    SlidePanelController.prototype.createChildren = function() {
-
-        return this;
-    };
 
     /**
      handles layout of DOM elements
@@ -178,32 +163,6 @@ define(function(require) {
         }
 
         return this;
-    };
-
-    /**
-     * Remove any child objects or references to DOM elements.
-     *
-     * @method removeChildren
-     * @returns {SlidePanelController}
-     * @public
-     */
-    SlidePanelController.prototype.removeChildren = function() {
-        this.$stackToggle = null;
-        this.$modalList = null;
-
-        return this;
-    };
-
-    /**
-     * Enables the component.
-     * Performs any event binding to handlers.
-     * Exits early if it is already enabled.
-     *
-     * @method enable
-     * @public
-     */
-    SlidePanelController.prototype.enable = function() {
-
     };
 
 	return SlidePanelController;

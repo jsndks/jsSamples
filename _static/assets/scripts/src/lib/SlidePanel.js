@@ -15,7 +15,7 @@ define(function(require) {
      */
 	var SlidePanel = function($element) {
 		// if element doesnt exist in the DOM return early
-		if ($element.length == 0) { return; }
+		if ($element.length === 0) { return; }
 
 		/**
          * A reference to the containing DOM element.
@@ -86,7 +86,7 @@ define(function(require) {
     };
 
     /**
-	 handles layout of DOM elements
+	 * handles layout of DOM elements
      *
      * @method layout
      * @returns {SlidePanel}
@@ -109,6 +109,8 @@ define(function(require) {
      * @public
      */
     SlidePanel.prototype.removeChildren = function() {
+        this.$description = null;
+        this.$panelBtn = null;
 
         return this;
     };

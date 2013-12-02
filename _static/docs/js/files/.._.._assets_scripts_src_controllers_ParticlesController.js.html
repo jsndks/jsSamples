@@ -120,7 +120,7 @@ define(function(require) {
      */
 	var ParticlesController = function($element) {
 		// if element doesnt exist in the DOM return early
-		if ($element.length == 0) { return; }
+		if ($element.length === 0) { return; }
 
 		/**
          * A reference to the containing DOM element.
@@ -272,24 +272,26 @@ define(function(require) {
      * @public
      */
     ParticlesController.prototype.updateStackBtnState = function(particleType) {
+        var $activeBtn = null;
+
         switch (particleType) {
             case &#x27;mist&#x27;:
-                var $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;mist&quot;]&#x27;);
+                $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;mist&quot;]&#x27;);
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case &#x27;smoke&#x27;:
-                var $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;smoke&quot;]&#x27;);
+                $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;smoke&quot;]&#x27;);
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case &#x27;scatter&#x27;:
-                var $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;scatter&quot;]&#x27;);
+                $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;scatter&quot;]&#x27;);
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             default:
-                var $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;mist&quot;]&#x27;);
+                $activeBtn = this.$btns.filter(&#x27;[data-particle-type=&quot;mist&quot;]&#x27;);
                 this.$btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
         }

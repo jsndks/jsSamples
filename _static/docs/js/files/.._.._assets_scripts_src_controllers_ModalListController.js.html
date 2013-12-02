@@ -120,7 +120,7 @@ define(function(require) {
      */
 	var ModalListController = function($element) {
         // if element doesnt exist in the DOM return early
-        if ($element.length == 0) { return; }
+        if ($element.length === 0) { return; }
 
         /**
          * A reference to the containing DOM element.
@@ -278,25 +278,26 @@ define(function(require) {
     ModalListController.prototype.updateStackBtnState = function() {
         var colCount = this.$modalList.attr(this.colCountAttr);
         var $btns = this.$stackToggle.find(&#x27;.btn&#x27;);
+        var $activeBtn = null;
 
         switch (colCount) {
             case &#x27;2&#x27;:
-                var $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;2&quot;]&#x27;);
+                $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;2&quot;]&#x27;);
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case &#x27;3&#x27;:
-                var $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;3&quot;]&#x27;);
+                $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;3&quot;]&#x27;);
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             case &#x27;4&#x27;:
-                var $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;4&quot;]&#x27;);
+                $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;4&quot;]&#x27;);
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
                 break;
             default:
-                var $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;4&quot;]&#x27;);
+                $activeBtn = this.$stackToggle.find(&#x27;[data-stack-option=&quot;4&quot;]&#x27;);
                 $btns.removeClass(this.activeBtnSelector);
                 $activeBtn.addClass(this.activeBtnSelector);
         }

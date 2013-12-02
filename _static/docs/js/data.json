@@ -1,0 +1,3044 @@
+{
+    "project": {
+        "name": "Javascript_Samples",
+        "description": "Sample Javascript code",
+        "version": "1.0.0",
+        "url": ""
+    },
+    "files": {
+        "../../assets/scripts/src/controllers/ModalListController.js": {
+            "name": "../../assets/scripts/src/controllers/ModalListController.js",
+            "modules": {},
+            "classes": {
+                "ModalListController": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/controllers/ParticlesController.js": {
+            "name": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "modules": {},
+            "classes": {
+                "ParticlesController": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/controllers/PercentageController.js": {
+            "name": "../../assets/scripts/src/controllers/PercentageController.js",
+            "modules": {},
+            "classes": {
+                "PercentageController": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/controllers/SlidePanelController.js": {
+            "name": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "modules": {},
+            "classes": {
+                "SlidePanelController": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/Chart.js": {
+            "name": "../../assets/scripts/src/lib/Chart.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/EqualHeight.js": {
+            "name": "../../assets/scripts/src/lib/EqualHeight.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/ModalList.js": {
+            "name": "../../assets/scripts/src/lib/ModalList.js",
+            "modules": {},
+            "classes": {
+                "ModalList": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/Percentage.js": {
+            "name": "../../assets/scripts/src/lib/Percentage.js",
+            "modules": {},
+            "classes": {
+                "Percentage": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/SlidePanel.js": {
+            "name": "../../assets/scripts/src/lib/SlidePanel.js",
+            "modules": {},
+            "classes": {
+                "Chart": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib/particles.js": {
+            "name": "../../assets/scripts/src/lib/particles.js",
+            "modules": {},
+            "classes": {
+                "Particles": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/dist-site.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/dist-site.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/jquery/scripts/jquery-1.7.1.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/jquery/scripts/jquery-1.7.1.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/text/textBuilt.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/text/textBuilt.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/lib-thirdparty/components/text/text.js": {
+            "name": "../../assets/scripts/src/lib-thirdparty/components/text/text.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/polyfills/function.bind.js": {
+            "name": "../../assets/scripts/src/polyfills/function.bind.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/App.js": {
+            "name": "../../assets/scripts/src/App.js",
+            "modules": {},
+            "classes": {
+                "App": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/config.js": {
+            "name": "../../assets/scripts/src/config.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "../../assets/scripts/src/main.js": {
+            "name": "../../assets/scripts/src/main.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "ModalListController": {
+            "name": "ModalListController",
+            "shortname": "ModalListController",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 11,
+            "description": "ModalList controller class",
+            "is_constructor": 1
+        },
+        "ParticlesController": {
+            "name": "ParticlesController",
+            "shortname": "ParticlesController",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 11,
+            "description": "Particles controller class",
+            "is_constructor": 1
+        },
+        "PercentageController": {
+            "name": "PercentageController",
+            "shortname": "PercentageController",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 11,
+            "description": "Percentage controller class",
+            "is_constructor": 1
+        },
+        "SlidePanelController": {
+            "name": "SlidePanelController",
+            "shortname": "SlidePanelController",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 11,
+            "description": "ModalList controller class",
+            "is_constructor": 1
+        },
+        "Chart": {
+            "name": "Chart",
+            "shortname": "Chart",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 10,
+            "description": "Chart lib class",
+            "is_constructor": 1
+        },
+        "ModalList": {
+            "name": "ModalList",
+            "shortname": "ModalList",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 13,
+            "description": "ModalList lib class",
+            "is_constructor": 1
+        },
+        "Percentage": {
+            "name": "Percentage",
+            "shortname": "Percentage",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 11,
+            "description": "Percentage lib class",
+            "is_constructor": 1
+        },
+        "Particles": {
+            "name": "Particles",
+            "shortname": "Particles",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 11,
+            "description": "Particles lib class",
+            "is_constructor": 1
+        },
+        "App": {
+            "name": "App",
+            "shortname": "App",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "../../assets/scripts/src/App.js",
+            "line": 19,
+            "description": "Initial application setup. Runs once upon every page load.",
+            "is_constructor": 1
+        }
+    },
+    "classitems": [
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 1,
+            "fileoverview": "ModalList Controller definition.",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 43,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 57,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "ModalListController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 71,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "ModalListController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 86,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "ModalListController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 100,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 113,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 129,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "ModalListController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 149,
+            "description": "Loops over display items and instantiates each",
+            "itemtype": "method",
+            "name": "initializeModalLists",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 168,
+            "description": "Set the current state of the stack toggle buttons",
+            "itemtype": "method",
+            "name": "updateStackBtnState",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ModalListController.js",
+            "line": 205,
+            "description": "Toggle between available stacking options",
+            "itemtype": "method",
+            "name": "onClickStackToggleItem",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalListController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 1,
+            "fileoverview": "Particles Controller definition.",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 38,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 53,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 67,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 83,
+            "description": "handles layout of DOM elements",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 96,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 111,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 130,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 144,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 164,
+            "description": "Set the current state of the toggle buttons",
+            "itemtype": "method",
+            "name": "updateStackBtnState",
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/ParticlesController.js",
+            "line": 199,
+            "description": "Toggle button click event handler",
+            "itemtype": "method",
+            "name": "onClickToggle",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ParticlesController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 1,
+            "fileoverview": "Percentage Controller definition.",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 30,
+            "description": "Option properties to be applied to the instance",
+            "default": "null",
+            "itemtype": "property",
+            "name": "options",
+            "type": "Object",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 39,
+            "description": "A continer to hold percentage instance objects",
+            "default": "[]",
+            "itemtype": "property",
+            "name": "displayContainer",
+            "type": "Array",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 51,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 65,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "PercentageController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 79,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "PercentageController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 95,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "PercentageController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 109,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 122,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 136,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "PercentageController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 156,
+            "description": "Loops over display items and instantiates each",
+            "itemtype": "method",
+            "name": "setupAnimations",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 196,
+            "description": "Run the animations in sequential order",
+            "itemtype": "method",
+            "name": "runAnimations",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 219,
+            "description": "Reset the animations back to 0 starting point",
+            "itemtype": "method",
+            "name": "resetAnimations",
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/PercentageController.js",
+            "line": 239,
+            "description": "Run button click event handler",
+            "itemtype": "method",
+            "name": "onClickRun",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "PercentageController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 1,
+            "fileoverview": "Slide Panel Controller definition.",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 33,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 47,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "SlidePanelController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 60,
+            "description": "handles layout of DOM elements\n*\n* @method layout\n* @returns {SlidePanelController}\n* @private",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 79,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "SlidePanelController"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/controllers/SlidePanelController.js",
+            "line": 93,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "SlidePanelController"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 1,
+            "fileoverview": "Chart module definition.",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 20,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 29,
+            "description": "Tracks whether component is enabled.",
+            "default": "false",
+            "itemtype": "property",
+            "name": "isEnabled",
+            "type": "{bool}",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 46,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 61,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "Chart"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 73,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "Chart"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 89,
+            "description": "handles layout of DOM elements\n     *\n     * @method layout\n     * @returns {Chart}\n     * @private",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 100,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "Chart"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 112,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 124,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 138,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "Chart"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Chart.js",
+            "line": 158,
+            "description": "Render the chart",
+            "itemtype": "method",
+            "name": "renderChart",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 1,
+            "fileoverview": "Equal Height module definition.  Used to force items in a list\nto be the same height as the tallest member in the row",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 15,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 24,
+            "description": "Tracks whether component is enabled.",
+            "default": "false",
+            "itemtype": "property",
+            "name": "isEnabled",
+            "type": "{bool}",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 37,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 50,
+            "description": "Performs measurements and applys any positioning style logic.\nShould be run anytime the parent layout changes.",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "EqualHeight"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 85,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 100,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/EqualHeight.js",
+            "line": 114,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "EqualHeight"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 1,
+            "fileoverview": "Modal List module definition.  Used to toggle the display of inline podals within a blocks list",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 22,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 31,
+            "description": "Tracks whether component is enabled.",
+            "default": "false",
+            "itemtype": "property",
+            "name": "isEnabled",
+            "type": "{bool}",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 41,
+            "description": "Sets the number of columns in the current list",
+            "default": "3",
+            "itemtype": "property",
+            "name": "colCount",
+            "type": "{number}",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 69,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 84,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "ModalList"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 98,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "ModalList"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 116,
+            "description": "Create any child objects or references to DOM elements\nafter page initialization.",
+            "itemtype": "method",
+            "name": "cacheSelectors",
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 129,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "ModalList"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 149,
+            "description": "Performs measurements and applys any positioning style logic.\nShould be run anytime the parent layout changes.",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "ModalList"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 215,
+            "description": "Loop through the descriptions and run\nthe height calculation method on it.",
+            "itemtype": "method",
+            "name": "attachDescriptionHeights",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 233,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 251,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 270,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "ModalList"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 291,
+            "description": "Collapse the view of a specified modal",
+            "itemtype": "method",
+            "name": "collapseModal",
+            "params": [
+                {
+                    "name": "$modal",
+                    "description": "modal element jQuery object",
+                    "type": "Object"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 319,
+            "description": "Expand the view of a specified modal",
+            "itemtype": "method",
+            "name": "expandModal",
+            "params": [
+                {
+                    "name": "$modal",
+                    "description": "modal element jQuery object",
+                    "type": "Object"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 348,
+            "description": "Calculate the height of the description block\nand assign it as a data attribute.",
+            "itemtype": "method",
+            "name": "getDescriptionHeight",
+            "params": [
+                {
+                    "name": "$description",
+                    "description": "jQuery description block object",
+                    "type": "Object"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 361,
+            "description": "Adjusts the position of the modal carat",
+            "itemtype": "method",
+            "name": "positionCarat",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 385,
+            "description": "Reinitialize modals, resizing them dynamically",
+            "itemtype": "method",
+            "name": "reinit",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 400,
+            "description": "Listing Item click handler",
+            "itemtype": "method",
+            "name": "onClickListItem",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 457,
+            "description": "Apply proper active class to items",
+            "itemtype": "method",
+            "name": "selectItem",
+            "params": [
+                {
+                    "name": "$targetEl",
+                    "description": "jQuery element to activate",
+                    "type": "Object"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 469,
+            "description": "Apply prper active class to items",
+            "itemtype": "method",
+            "name": "deSelectItem",
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/ModalList.js",
+            "line": 479,
+            "description": "Collapse the inline modal",
+            "itemtype": "method",
+            "name": "onClickModalClose",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "ModalList"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 1,
+            "fileoverview": "Percentage lib definition.",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 40,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 54,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "Percentage"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 69,
+            "description": "handles layout of DOM elements\n*\n* @method layout\n* @returns {Percentage}\n* @private",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 87,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "Percentage"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 99,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 111,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 125,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "Percentage"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/Percentage.js",
+            "line": 145,
+            "description": "Runs the snap.js animation",
+            "itemtype": "method",
+            "name": "run",
+            "access": "public",
+            "tagname": "",
+            "class": "Percentage"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 1,
+            "fileoverview": "SlidePanel module definition.",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 20,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 29,
+            "description": "Tracks whether component is enabled.",
+            "default": "false",
+            "itemtype": "property",
+            "name": "isEnabled",
+            "type": "{bool}",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 44,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 59,
+            "description": "Binds the scope of any handler functions.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "setupHandlers",
+            "return": {
+                "description": "",
+                "type": "SlidePanel"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 73,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "SlidePanel"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 88,
+            "description": "handles layout of DOM elements\n     *\n     * @method layout\n     * @returns {SlidePanel}\n     * @private",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 104,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "SlidePanel"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 116,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 128,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 142,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "SlidePanel"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 162,
+            "description": "Collapse the slide panel",
+            "itemtype": "method",
+            "name": "collapsePanel",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 175,
+            "description": "Expand the slide panel",
+            "itemtype": "method",
+            "name": "expandPanel",
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/SlidePanel.js",
+            "line": 194,
+            "description": "Slide panel click event handler",
+            "itemtype": "method",
+            "name": "onClickSlidePanelBtn",
+            "params": [
+                {
+                    "name": "e",
+                    "description": "JavaScript event object.",
+                    "type": "Event"
+                }
+            ],
+            "access": "public",
+            "tagname": "",
+            "class": "Chart"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 1,
+            "fileoverview": "Particles module definition.",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 21,
+            "description": "A reference to the containing DOM element.",
+            "default": "null",
+            "itemtype": "property",
+            "name": "$element",
+            "type": "JQuery",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 30,
+            "description": "A reference to the passed in options",
+            "default": "null",
+            "itemtype": "property",
+            "name": "options",
+            "type": "Object",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 39,
+            "description": "Tracks whether component is enabled.",
+            "default": "false",
+            "itemtype": "property",
+            "name": "isEnabled",
+            "type": "{bool}",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 49,
+            "description": "Number of particles to be emited.",
+            "default": "2000",
+            "itemtype": "property",
+            "name": "numParticles",
+            "type": "{number}",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 59,
+            "description": "Initial timestamp use to for baseline of animation loop",
+            "default": "null",
+            "itemtype": "property",
+            "name": "lastTimeStamp",
+            "type": "{number}",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 69,
+            "description": "array representing particles",
+            "default": "empty array",
+            "itemtype": "property",
+            "name": "lastTimeStamp",
+            "type": "{array}",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 79,
+            "description": "The bounce",
+            "default": "-1",
+            "itemtype": "property",
+            "name": "bounce",
+            "type": "{number}",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 92,
+            "description": "Initializes the class.\nRuns a single setupHandlers call, followed by createChildren and layout.\nExits early if it is already initialized.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 106,
+            "description": "Create any child objects or references to DOM elements.\nShould only be run on initialization of the view.",
+            "itemtype": "method",
+            "name": "createChildren",
+            "return": {
+                "description": "",
+                "type": "Particles"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 126,
+            "description": "handles layout of DOM elements",
+            "itemtype": "method",
+            "name": "layout",
+            "return": {
+                "description": "",
+                "type": "ParticlesController"
+            },
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 143,
+            "description": "Remove any child objects or references to DOM elements.",
+            "itemtype": "method",
+            "name": "removeChildren",
+            "return": {
+                "description": "",
+                "type": "Particles"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 159,
+            "description": "Enables the component.\nPerforms any event binding to handlers.\nExits early if it is already enabled.",
+            "itemtype": "method",
+            "name": "enable",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 172,
+            "description": "Disables the component.\nExits early if it is already disabled.",
+            "itemtype": "method",
+            "name": "disable",
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 186,
+            "description": "Destroys the component.\nTears down any events, handlers, elements.\nShould be called when the object should be left unused.",
+            "itemtype": "method",
+            "name": "destroy",
+            "return": {
+                "description": "",
+                "type": "Particles"
+            },
+            "access": "public",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 206,
+            "description": "Creates particle data objects",
+            "itemtype": "method",
+            "name": "createParticleData",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 222,
+            "description": "Sets the base particle data",
+            "itemtype": "method",
+            "name": "setParticleData",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 266,
+            "description": "Updates the particle data object",
+            "itemtype": "method",
+            "name": "update",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 333,
+            "description": "Renders the particle on the canvas",
+            "itemtype": "method",
+            "name": "draw",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib/particles.js",
+            "line": 388,
+            "description": "Creates the animation loop",
+            "itemtype": "method",
+            "name": "renderLoop",
+            "access": "private",
+            "tagname": "",
+            "class": "Particles"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1292,
+            "description": "Create key-value caches of limited size",
+            "return": {
+                "description": "Returns the Object data after storing it on itself with\n\tproperty name the (space-suffixed) string and (if the cache is larger than Expr.cacheLength)\n\tdeleting the oldest entry",
+                "type": "Function(string, Object)"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1312,
+            "description": "Mark a function for special use by Sizzle",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": "The function to mark",
+                    "type": "Function"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1321,
+            "description": "Support testing using an element",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": "Passed the created div and expects a boolean result",
+                    "type": "Function"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1342,
+            "description": "Adds the same handler for all of the specified attrs",
+            "params": [
+                {
+                    "name": "attrs",
+                    "description": "Pipe-separated list of attributes",
+                    "type": "String"
+                },
+                {
+                    "name": "handler",
+                    "description": "The method that will be applied",
+                    "type": "Function"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1356,
+            "description": "Checks document order of two siblings",
+            "params": [
+                {
+                    "name": "a",
+                    "description": "",
+                    "type": "Element"
+                },
+                {
+                    "name": "b",
+                    "description": "",
+                    "type": "Element"
+                }
+            ],
+            "return": {
+                "description": "Returns less than 0 if a precedes b, greater than 0 if a follows b",
+                "type": "Number"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1385,
+            "description": "Returns a function to use in pseudos for input types",
+            "params": [
+                {
+                    "name": "type",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1396,
+            "description": "Returns a function to use in pseudos for buttons",
+            "params": [
+                {
+                    "name": "type",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1407,
+            "description": "Returns a function to use in pseudos for positionals",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": "",
+                    "type": "Function"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1429,
+            "description": "Detect xml",
+            "params": [
+                {
+                    "name": "elem",
+                    "description": "An element or a document",
+                    "type": "Element|Object"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1443,
+            "description": "Sets document-related variables once based on the current document",
+            "params": [
+                {
+                    "name": "doc",
+                    "description": "An element or document object to use to set the document",
+                    "type": "Element|Object",
+                    "optional": true
+                }
+            ],
+            "return": {
+                "description": "Returns the current document",
+                "type": "Object"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1853,
+            "description": "Document sorting and removing duplicates",
+            "params": [
+                {
+                    "name": "results",
+                    "description": "",
+                    "type": "ArrayLike"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js",
+            "line": 1882,
+            "description": "Utility function for retrieving the text value of an array of DOM nodes",
+            "params": [
+                {
+                    "name": "elem",
+                    "description": "",
+                    "type": "Array|Element"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/dist-site.js",
+            "line": 1,
+            "license": "RequireJS Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.\nAvailable via the MIT or new BSD license.\nsee: http://github.com/jrburke/requirejs for details",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js",
+            "line": 1,
+            "license": "Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.\nAvailable via the MIT or new BSD license.\nsee: http://github.com/jrburke/requirejs for details",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js",
+            "line": 51,
+            "description": "Gets the absolute file path as a string, normalized\nto using front slashes for path separators.",
+            "params": [
+                {
+                    "name": "fileName",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js",
+            "line": 166,
+            "description": "Reads a *text* file.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js",
+            "line": 4,
+            "license": "RequireJS text 1.0.2 Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.\nAvailable via the MIT or new BSD license.\nsee: http://github.com/jrburke/requirejs for details",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js",
+            "line": 145,
+            "description": "Parses a resource name into its component parts. Resource names\nlook like: module/name.ext!strip, where the !strip part is\noptional.",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "the resource name",
+                    "type": "String"
+                }
+            ],
+            "return": {
+                "description": "with properties \"moduleName\", \"ext\" and \"strip\"\nwhere strip is a boolean.",
+                "type": "Object"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js",
+            "line": 175,
+            "description": "Is an URL on another domain. Only works for browser use, returns\nfalse in non-browser environments. Only used to know if an\noptimized .js version of a text resource should be loaded\ninstead.",
+            "params": [
+                {
+                    "name": "url",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "return": {
+                "description": "Boolean"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/jquery/scripts/jquery-1.7.1.js",
+            "line": 4182,
+            "description": "Utility function for retreiving the text value of an array of DOM nodes",
+            "params": [
+                {
+                    "name": "elem",
+                    "description": "",
+                    "type": "Array|Element"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/text/textBuilt.js",
+            "line": 39,
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1,
+            "license": "RequireJS 2.1.9 Copyright (c) 2010-2012, The Dojo Foundation All Rights Reserved.\nAvailable via the MIT or new BSD license.\nsee: http://github.com/jrburke/requirejs for details",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 49,
+            "description": "Helper function for iterating over an array. If the func returns\na true value, it will break out of the loop.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 64,
+            "description": "Helper function for iterating over an array backwards. If the func\nreturns a true value, it will break out of the loop.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 87,
+            "description": "Cycles over properties in an object and calls a function for each\nproperty value. If the function returns a truthy value, then the\niteration is stopped.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 103,
+            "description": "Simple function to mix in properties from source into target,\nbut only if target does not already have a property of the same name.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 154,
+            "description": "Constructs an error with a pointer to an URL with more information.",
+            "params": [
+                {
+                    "name": "id",
+                    "description": "the error ID that maps to an ID on a web page.",
+                    "type": "String"
+                },
+                {
+                    "name": "message",
+                    "description": "human readable error.",
+                    "type": "String"
+                },
+                {
+                    "name": "err",
+                    "description": "the original error, if there is one.",
+                    "type": "Error",
+                    "optional": true
+                }
+            ],
+            "return": {
+                "description": "",
+                "type": "Error"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 220,
+            "description": "Trims the . and .. from an array of path segments.\nIt will keep a leading path segment if a .. will become\nthe first path segment, to help with module name lookups,\nwhich act like paths, but can be remapped. But the end result,\nall paths that use this function should look normalized.\nNOTE: this method MODIFIES the input array.",
+            "params": [
+                {
+                    "name": "ary",
+                    "description": "the array of path segments.",
+                    "type": "Array"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 253,
+            "description": "Given a relative module name, like ./something, normalize it to\na real name that can be mapped to a path.",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "the relative name",
+                    "type": "String"
+                },
+                {
+                    "name": "baseName",
+                    "description": "a real name that the name arg is relative\nto.",
+                    "type": "String"
+                },
+                {
+                    "name": "applyMap",
+                    "description": "apply the map config to the value. Should\nonly be done if this normalization is for a dependency ID.",
+                    "type": "Boolean"
+                }
+            ],
+            "return": {
+                "description": "normalized name",
+                "type": "String"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 398,
+            "description": "Creates a module mapping that includes plugin prefix, module\nname, and path. If parentModuleMap is provided it will\nalso normalize the name via require.normalize()",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "the module name",
+                    "type": "String"
+                },
+                {
+                    "name": "parentModuleMap",
+                    "description": "parent module map\nfor the module name, used to resolve relative names.",
+                    "type": "String",
+                    "optional": true
+                },
+                {
+                    "name": "isNormalized:",
+                    "description": "is the ID already normalized.\nThis is true if this call is done for a define() module ID.",
+                    "type": "Boolean"
+                },
+                {
+                    "name": "applyMap:",
+                    "description": "apply the map config to the ID.\nShould only be true if this map is for a dependency.",
+                    "type": "Boolean"
+                }
+            ],
+            "return": {
+                "description": "",
+                "type": "Object"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 540,
+            "description": "Internal method to transfer globalQueue items to this context's\ndefQueue.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 828,
+            "description": "Checks if the module is ready to define itself, and if so,\ndefine it.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1187,
+            "description": "Given an event from a script node, get the requirejs info from it,\nand then removes the event listeners on the node.",
+            "params": [
+                {
+                    "name": "evt",
+                    "description": "",
+                    "type": "Event"
+                }
+            ],
+            "return": {
+                "description": "",
+                "type": "Object"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1240,
+            "description": "Set a configuration for the context.",
+            "params": [
+                {
+                    "name": "cfg",
+                    "description": "config object to integrate.",
+                    "type": "Object"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1424,
+            "description": "Converts a module name + .extension into an URL path.\n*Requires* the use of a module name. It does not support using\nplain URLs like nameToUrl.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1488,
+            "description": "Called to enable a module if it is still in the registry\nawaiting enablement. A second arg, parent, the parent module,\nis passed in for context, when this method is overriden by\nthe optimizer. Not shown here to keep code compact.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1501,
+            "description": "Internal method used by environment adapters to complete a load event.\nA load event could be a script load or just a load pass from a synchronous\nload call.",
+            "params": [
+                {
+                    "name": "moduleName",
+                    "description": "the name of the module to potentially complete.",
+                    "type": "String"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1557,
+            "description": "Converts a module name to a file path. Supports cases where\nmoduleName may actually be just an URL.\nNote that it **does not** call normalize on the moduleName,\nit is assumed to have already been normalized. This is an\ninternal API, not a public one. Use toUrl for the public API.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1628,
+            "description": "Executes a module callback function. Broken out as a separate function\nsolely to allow the build system to sequence the files in the built\nlayer in the right sequence.",
+            "access": "private",
+            "tagname": "",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1639,
+            "description": "callback for script loads, used to check status of loading.",
+            "params": [
+                {
+                    "name": "evt",
+                    "description": "the event from the browser for the script\nthat was loaded.",
+                    "type": "Event"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1661,
+            "description": "Callback for script errors.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1676,
+            "description": "Main entry point.\n\nIf the only argument to require is a string, then the module that\nis represented by that string is fetched for the appropriate context.\n\nIf the first argument is an array, then it will be treated as an array\nof dependency string names to fetch. An optional function callback can\nbe specified to execute when all of those dependencies are available.\n\nMake a local req variable to help Caja compliance (it assumes things\non a require that are not standardized), and to give a short\nname for minification/local scope use.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1726,
+            "description": "Support require.config() to make it easier to cooperate with other\nAMD loaders on globally agreed names.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1734,
+            "description": "Execute something after the current tick\nof the event loop. Override for other envs\nthat have a better solution than setTimeout.",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": "function to execute later.",
+                    "type": "Function"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1744,
+            "description": "Export require as a global, but only if it does not already exist.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1791,
+            "description": "Any errors that require explicitly generates will be passed to this\nfunction. Intercept/override it if you want custom error handling.",
+            "params": [
+                {
+                    "name": "err",
+                    "description": "the error object.",
+                    "type": "Error"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1798,
+            "description": "Creates the node for the load command. Only used in browser envs.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1811,
+            "description": "Does the request to load a module for the browser case.\nMake this a separate function to allow other environments\nto override it.",
+            "params": [
+                {
+                    "name": "context",
+                    "description": "the require context to find state.",
+                    "type": "Object"
+                },
+                {
+                    "name": "moduleName",
+                    "description": "the name of the module.",
+                    "type": "String"
+                },
+                {
+                    "name": "url",
+                    "description": "the URL to the module.",
+                    "type": "Object"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 1967,
+            "description": "The function that handles definitions of modules. Differs from\nrequire() in that a string for the module should be the first argument,\nand the function to execute after dependencies are loaded should\nreturn a value to define the module corresponding to the first argument's\nname.",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js",
+            "line": 2041,
+            "description": "Executes the text. Normally just uses eval, but can be modified\nto use a better, environment-specific call. Only used for transpiling\nloader plugins, not for plain JS modules.",
+            "params": [
+                {
+                    "name": "text",
+                    "description": "the text to execute/evaluate.",
+                    "type": "String"
+                }
+            ],
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/text/text.js",
+            "line": 1,
+            "license": "RequireJS text 2.0.10 Copyright (c) 2010-2012, The Dojo Foundation All Rights Reserved.\nAvailable via the MIT or new BSD license.\nsee: http://github.com/requirejs/text for details",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/text/text.js",
+            "line": 77,
+            "description": "Parses a resource name into its component parts. Resource names\nlook like: module/name.ext!strip, where the !strip part is\noptional.",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "the resource name",
+                    "type": "String"
+                }
+            ],
+            "return": {
+                "description": "with properties \"moduleName\", \"ext\" and \"strip\"\nwhere strip is a boolean.",
+                "type": "Object"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/lib-thirdparty/components/text/text.js",
+            "line": 121,
+            "description": "Is an URL on another domain. Only works for browser use, returns\nfalse in non-browser environments. Only used to know if an\noptimized .js version of a text resource should be loaded\ninstead.",
+            "params": [
+                {
+                    "name": "url",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "return": {
+                "description": "Boolean"
+            },
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/polyfills/function.bind.js",
+            "line": 1,
+            "description": "Bind.js\nCopyright 2010, WebReflection\nLicense: http://www.opensource.org/licenses/mit-license.php",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/App.js",
+            "line": 1,
+            "fileoverview": "App module definition",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/App.js",
+            "line": 29,
+            "description": "Initializes the application and kicks off loading of prerequisites.",
+            "itemtype": "method",
+            "name": "init",
+            "access": "private",
+            "tagname": "",
+            "class": "App"
+        },
+        {
+            "file": "../../assets/scripts/src/config.js",
+            "line": 1,
+            "description": "Application configuration declaration.\n\nThis configuration file is shared between the website and the build script so\nthat values don't have to be duplicated across environments. Any non-shared,\nenvironment-specific configuration should placed in appropriate configuration files.",
+            "class": ""
+        },
+        {
+            "file": "../../assets/scripts/src/main.js",
+            "line": 1,
+            "fileoverview": "Main entry point for RequireJS",
+            "class": ""
+        }
+    ],
+    "warnings": [
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:57"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:71"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:86"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:129"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:53"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:67"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:83"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:96"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:144"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:65"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:79"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:95"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:136"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:47"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:79"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/Chart.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Chart.js:61"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Chart.js:73"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Chart.js:100"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Chart.js:138"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/EqualHeight.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/EqualHeight.js:50"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/EqualHeight.js:114"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:84"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:98"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:129"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:149"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:270"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:54"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:87"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:125"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:59"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:73"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:104"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:142"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/lib/particles.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/particles.js:106"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/particles.js:126"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/particles.js:143"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib/particles.js:186"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1292"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1356"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1443"
+        },
+        {
+            "message": "unknown tag: license",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/dist-site.js:1"
+        },
+        {
+            "message": "unknown tag: license",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js:1"
+        },
+        {
+            "message": "unknown tag: license",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:4"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:145"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:175"
+        },
+        {
+            "message": "unknown tag: license",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:154"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:253"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:398"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1187"
+        },
+        {
+            "message": "unknown tag: license",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:1"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:77"
+        },
+        {
+            "message": "replacing incorrect tag: returns with return",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:121"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/App.js:1"
+        },
+        {
+            "message": "unknown tag: fileoverview",
+            "line": " ../../assets/scripts/src/main.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/controllers/ModalListController.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/controllers/ParticlesController.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/controllers/PercentageController.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:1"
+        },
+        {
+            "message": "Missing item type\nhandles layout of DOM elements\n*\n* @method layout\n* @returns {SlidePanelController}\n* @private",
+            "line": " ../../assets/scripts/src/controllers/SlidePanelController.js:60"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/Chart.js:1"
+        },
+        {
+            "message": "Missing item type\nhandles layout of DOM elements\n     *\n     * @method layout\n     * @returns {Chart}\n     * @private",
+            "line": " ../../assets/scripts/src/lib/Chart.js:89"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/EqualHeight.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/ModalList.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:1"
+        },
+        {
+            "message": "Missing item type\nhandles layout of DOM elements\n*\n* @method layout\n* @returns {Percentage}\n* @private",
+            "line": " ../../assets/scripts/src/lib/Percentage.js:69"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:1"
+        },
+        {
+            "message": "Missing item type\nhandles layout of DOM elements\n     *\n     * @method layout\n     * @returns {SlidePanel}\n     * @private",
+            "line": " ../../assets/scripts/src/lib/SlidePanel.js:88"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib/particles.js:1"
+        },
+        {
+            "message": "Missing item type\nCreate key-value caches of limited size",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1292"
+        },
+        {
+            "message": "Missing item type\nMark a function for special use by Sizzle",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1312"
+        },
+        {
+            "message": "Missing item type\nSupport testing using an element",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1321"
+        },
+        {
+            "message": "Missing item type\nAdds the same handler for all of the specified attrs",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1342"
+        },
+        {
+            "message": "Missing item type\nChecks document order of two siblings",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1356"
+        },
+        {
+            "message": "Missing item type\nReturns a function to use in pseudos for input types",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1385"
+        },
+        {
+            "message": "Missing item type\nReturns a function to use in pseudos for buttons",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1396"
+        },
+        {
+            "message": "Missing item type\nReturns a function to use in pseudos for positionals",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1407"
+        },
+        {
+            "message": "Missing item type\nDetect xml",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1429"
+        },
+        {
+            "message": "Missing item type\nSets document-related variables once based on the current document",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1443"
+        },
+        {
+            "message": "Missing item type\nDocument sorting and removing duplicates",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1853"
+        },
+        {
+            "message": "Missing item type\nUtility function for retrieving the text value of an array of DOM nodes",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/jquery/jquery.js:1882"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/dist-site.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js:1"
+        },
+        {
+            "message": "Missing item type\nGets the absolute file path as a string, normalized\nto using front slashes for path separators.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js:51"
+        },
+        {
+            "message": "Missing item type\nReads a *text* file.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/dist/file.js:166"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:4"
+        },
+        {
+            "message": "Missing item type\nParses a resource name into its component parts. Resource names\nlook like: module/name.ext!strip, where the !strip part is\noptional.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:145"
+        },
+        {
+            "message": "Missing item type\nIs an URL on another domain. Only works for browser use, returns\nfalse in non-browser environments. Only used to know if an\noptimized .js version of a text resource should be loaded\ninstead.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/circular/complexPlugin/slowText.js:175"
+        },
+        {
+            "message": "Missing item type\nUtility function for retreiving the text value of an array of DOM nodes",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/jquery/scripts/jquery-1.7.1.js:4182"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/tests/text/textBuilt.js:39"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1"
+        },
+        {
+            "message": "Missing item type\nHelper function for iterating over an array. If the func returns\na true value, it will break out of the loop.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:49"
+        },
+        {
+            "message": "Missing item type\nHelper function for iterating over an array backwards. If the func\nreturns a true value, it will break out of the loop.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:64"
+        },
+        {
+            "message": "Missing item type\nCycles over properties in an object and calls a function for each\nproperty value. If the function returns a truthy value, then the\niteration is stopped.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:87"
+        },
+        {
+            "message": "Missing item type\nSimple function to mix in properties from source into target,\nbut only if target does not already have a property of the same name.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:103"
+        },
+        {
+            "message": "Missing item type\nConstructs an error with a pointer to an URL with more information.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:154"
+        },
+        {
+            "message": "Missing item type\nTrims the . and .. from an array of path segments.\nIt will keep a leading path segment if a .. will become\nthe first path segment, to help with module name lookups,\nwhich act like paths, but can be remapped. But the end result,\nall paths that use this function should look normalized.\nNOTE: this method MODIFIES the input array.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:220"
+        },
+        {
+            "message": "Missing item type\nGiven a relative module name, like ./something, normalize it to\na real name that can be mapped to a path.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:253"
+        },
+        {
+            "message": "Missing item type\nCreates a module mapping that includes plugin prefix, module\nname, and path. If parentModuleMap is provided it will\nalso normalize the name via require.normalize()",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:398"
+        },
+        {
+            "message": "Missing item type\nInternal method to transfer globalQueue items to this context's\ndefQueue.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:540"
+        },
+        {
+            "message": "Missing item type\nChecks if the module is ready to define itself, and if so,\ndefine it.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:828"
+        },
+        {
+            "message": "Missing item type\nGiven an event from a script node, get the requirejs info from it,\nand then removes the event listeners on the node.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1187"
+        },
+        {
+            "message": "Missing item type\nSet a configuration for the context.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1240"
+        },
+        {
+            "message": "Missing item type\nConverts a module name + .extension into an URL path.\n*Requires* the use of a module name. It does not support using\nplain URLs like nameToUrl.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1424"
+        },
+        {
+            "message": "Missing item type\nCalled to enable a module if it is still in the registry\nawaiting enablement. A second arg, parent, the parent module,\nis passed in for context, when this method is overriden by\nthe optimizer. Not shown here to keep code compact.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1488"
+        },
+        {
+            "message": "Missing item type\nInternal method used by environment adapters to complete a load event.\nA load event could be a script load or just a load pass from a synchronous\nload call.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1501"
+        },
+        {
+            "message": "Missing item type\nConverts a module name to a file path. Supports cases where\nmoduleName may actually be just an URL.\nNote that it **does not** call normalize on the moduleName,\nit is assumed to have already been normalized. This is an\ninternal API, not a public one. Use toUrl for the public API.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1557"
+        },
+        {
+            "message": "Missing item type\nExecutes a module callback function. Broken out as a separate function\nsolely to allow the build system to sequence the files in the built\nlayer in the right sequence.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1628"
+        },
+        {
+            "message": "Missing item type\ncallback for script loads, used to check status of loading.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1639"
+        },
+        {
+            "message": "Missing item type\nCallback for script errors.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1661"
+        },
+        {
+            "message": "Missing item type\nMain entry point.\n\nIf the only argument to require is a string, then the module that\nis represented by that string is fetched for the appropriate context.\n\nIf the first argument is an array, then it will be treated as an array\nof dependency string names to fetch. An optional function callback can\nbe specified to execute when all of those dependencies are available.\n\nMake a local req variable to help Caja compliance (it assumes things\non a require that are not standardized), and to give a short\nname for minification/local scope use.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1676"
+        },
+        {
+            "message": "Missing item type\nSupport require.config() to make it easier to cooperate with other\nAMD loaders on globally agreed names.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1726"
+        },
+        {
+            "message": "Missing item type\nExecute something after the current tick\nof the event loop. Override for other envs\nthat have a better solution than setTimeout.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1734"
+        },
+        {
+            "message": "Missing item type\nExport require as a global, but only if it does not already exist.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1744"
+        },
+        {
+            "message": "Missing item type\nAny errors that require explicitly generates will be passed to this\nfunction. Intercept/override it if you want custom error handling.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1791"
+        },
+        {
+            "message": "Missing item type\nCreates the node for the load command. Only used in browser envs.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1798"
+        },
+        {
+            "message": "Missing item type\nDoes the request to load a module for the browser case.\nMake this a separate function to allow other environments\nto override it.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1811"
+        },
+        {
+            "message": "Missing item type\nThe function that handles definitions of modules. Differs from\nrequire() in that a string for the module should be the first argument,\nand the function to execute after dependencies are loaded should\nreturn a value to define the module corresponding to the first argument's\nname.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:1967"
+        },
+        {
+            "message": "Missing item type\nExecutes the text. Normally just uses eval, but can be modified\nto use a better, environment-specific call. Only used for transpiling\nloader plugins, not for plain JS modules.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/requirejs/require.js:2041"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:1"
+        },
+        {
+            "message": "Missing item type\nParses a resource name into its component parts. Resource names\nlook like: module/name.ext!strip, where the !strip part is\noptional.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:77"
+        },
+        {
+            "message": "Missing item type\nIs an URL on another domain. Only works for browser use, returns\nfalse in non-browser environments. Only used to know if an\noptimized .js version of a text resource should be loaded\ninstead.",
+            "line": " ../../assets/scripts/src/lib-thirdparty/components/text/text.js:121"
+        },
+        {
+            "message": "Missing item type\nBind.js\nCopyright 2010, WebReflection\nLicense: http://www.opensource.org/licenses/mit-license.php",
+            "line": " ../../assets/scripts/src/polyfills/function.bind.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/App.js:1"
+        },
+        {
+            "message": "Missing item type\nApplication configuration declaration.\n\nThis configuration file is shared between the website and the build script so\nthat values don't have to be duplicated across environments. Any non-shared,\nenvironment-specific configuration should placed in appropriate configuration files.",
+            "line": " ../../assets/scripts/src/config.js:1"
+        },
+        {
+            "message": "Missing item type",
+            "line": " ../../assets/scripts/src/main.js:1"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "predef": [
+        "require",
+        "define",
+        "SETTINGS",
+        "DocumentTouch",
+        "Back",
+        "Bounce",
+        "Circ",
+        "Cubic",
+        "Elastic",
+        "Linear",
+        "Strong",
+        "Quad",
+        "Quint"
+    ],
+
+    "browser": true,
+    "worker": true,
+    
+    "bitwise": false,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "plusplus": false,
+    "quotmark": "single",
+    "regexp": false,
+    "undef": true,
+    "unused": "vars",
+    "strict": true,
+    "trailing": true,
+    "white": false,
+    "maxparams": 7,
+    "maxdepth": 4,
+    "maxlen": 120,
+    "eqnull": true,
+
+    "evil": false,
+    "onecase": true,
+    "devel": true
+}

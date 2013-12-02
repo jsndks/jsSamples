@@ -1,0 +1,17 @@
+
+/* ---------------------------------------------------------------------
+Feature Styles
+------------------------------------------------------------------------ */
+.feature {
+    overflow: hidden;
+}
+
+.feature-element {
+    margin-bottom: 12px;
+}
+
+.feature-element > img {
+    width: 100%;
+}
+
+.feature-bd {}

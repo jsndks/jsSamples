@@ -1,0 +1,34 @@
+
+/* ---------------------------------------------------------------------
+Button Styles
+------------------------------------------------------------------------ */
+.btn {
+	display: inline-block;
+	color: #7d7d7d;
+	text-shadow: 0 1px #fff;
+	text-decoration: none;
+	border: 1px solid #999999;
+	padding: 8px 12px;
+	border-radius: 5px;
+}
+
+.btn:hover,
+.btn_active {
+	box-shadow: 0 0 10px rgba(0,0,0,0.25) inset;
+}
+
+.pillBox > * {
+	float: left;
+	border-radius: 0;
+	border-right-width: 0;
+}
+
+.pillBox > .btn:nth-child(1) {
+	border-radius: 5px 0 0 5px;
+	border-right-width: 0;
+}
+
+.pillBox > .btn:last-child {
+	border-radius: 0 5px 5px 0;
+	border-right-width: 1px;
+}

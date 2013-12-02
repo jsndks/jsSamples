@@ -1,0 +1,19 @@
+
+/* ---------------------------------------------------------------------
+Main Navigation Styles
+------------------------------------------------------------------------ */
+.mainNav {
+	
+}
+
+.mainNav-item {
+	display: inline-block;	
+}
+
+.mainNav-item > * {
+	margin-left: 12px;
+}
+
+.mainNav-item > *:hover {
+	color: #d2d2d2;
+}

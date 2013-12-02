@@ -1,0 +1,102 @@
+
+/* ---------------------------------------------------------------------
+Modal Styles
+------------------------------------------------------------------------ */
+.modal {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 0;
+    background: #ffffff;
+    border: 1px solid #b2ebee;
+    -webkit-box-shadow: 0 3px #b2ebee;
+    -moz-box-shadow: 0 3px #b2ebee;
+    -ms-box-shadow: 0 3px #b2ebee;
+    -o-box-shadow: 0 3px #b2ebee;
+    box-shadow: 0 3px #b2ebee;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+
+    -webkit-transition: height .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+
+.mix-modal_isCollapsed {
+    height: 0;
+}
+
+.mix-modal_isHidden {
+    display: none;
+}
+
+.modal-carat {
+    position: absolute;
+    top: -11px;
+    left: 101px;
+    width: 25px;
+    height: 11px;
+    background: url(../../images/modal-carat.png) no-repeat;
+
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+
+.modal-content {
+    overflow: hidden;
+    padding: 39px;
+}
+
+.modal-content-item {
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+
+.modal-content-item_isHidden {
+    display: none;
+}
+
+.modal-content-item_isInvisible {
+    opacity: 0;
+}
+
+.modal-close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    opacity: 1;
+}
+
+.modal-close_isHidden {
+    opacity: 0;
+}
+
+/* ---------------------------------------------------------------------
+Modal Styles - High Contrast
+------------------------------------------------------------------------ */
+
+.hghContrast .modal {
+    color: #ffffff;
+    background-color: #151515;
+    border: 1px solid #292929;
+    -webkit-box-shadow: 0 3px #292929;
+    -moz-box-shadow: 0 3px #292929;
+    -ms-box-shadow: 0 3px #292929;
+    -o-box-shadow: 0 3px #292929;
+    box-shadow: 0 3px #292929;
+}
+
+.hghContrast .modal-carat {
+    background: url("../../images/modal-carat_hc.png") no-repeat;
+}

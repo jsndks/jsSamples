@@ -1,0 +1,40 @@
+
+/* ---------------------------------------------------------------------
+layoutSection Styles
+------------------------------------------------------------------------ */
+.layoutSection {
+	padding: 40px 0;
+}
+
+.layoutSection-contain {
+	max-width: 960px;
+	margin: 0 auto;	
+}
+
+.layoutSection_main {
+	height: 600px;
+	padding: 0;
+}
+
+.layoutSection-contain-hd {
+	overflow: hidden;
+	padding: 24px 0;
+}
+
+/* Color Mixins */
+.mix-layoutSection_red { background-color: #ff5951; }
+.mix-layoutSection_white { background-color: #ffffff; }
+.mix-layoutSection_blue { background-color: #43deef; }
+.mix-layoutSection_darkGrey { background-color: #4e4e4e; }
+.mix-layoutSection_lightGrey { background-color: #d2d2d2; }
+
+/* Other Mixins */
+.mix-layoutSection_inset { box-shadow: 0 0px 5px 5px rgba(0,0,0,0.25) inset; }
+
+.mix-layoutSection_bubbles {
+	background-repeat: no-repeat;
+	background-position: 0 100%,
+						 100% 0;
+	background-image: url(../../images/bubble_01.png),
+					  url(../../images/bubble_02.png);
+}

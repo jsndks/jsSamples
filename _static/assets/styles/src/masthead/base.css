@@ -1,0 +1,21 @@
+
+/* ---------------------------------------------------------------------
+Mathead Styles
+------------------------------------------------------------------------ */
+.masthead {
+	overflow: hidden;
+	padding: 48px 0 32px;
+}
+
+.masthead-contain {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.masthead-contain-main {
+	float: left;
+}
+
+.masthead-contain-sub {
+	float: right;
+}
